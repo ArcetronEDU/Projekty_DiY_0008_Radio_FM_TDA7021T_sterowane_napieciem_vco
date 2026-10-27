@@ -10,6 +10,12 @@ i jednocześnie za pomocą programu można uzyskać dokładniejszy zakres stroje
 Cewka za pinem 12 poprzez kondensator 68pF i cewkę daje dopasowanie anteny 75 ohm. Przy podłączeniu przewodu 50ohm należny zmienić kondensator na 100-120 pF i cewke z 5 zwojow na 4 zwoje 
 aby nie było odbić stacji radiowych i przesterowania sygnału.
 
+Uruchamianie:
+Podczas pierwszego uruchamiania radia ustaw, potencjometr 100K w skrajnym położeniu w lewą stronę, na znaną Ci stacje radiową w okolicach 88-89MHz
+reguluj kondensatorem strojeniowym aż usłyszysz dźwięk z radia. Cewka L1 powinna posiadać rdzeń i 3.5 zwojów, rdzeń powinien być ustawiony w środkowym połażeniu, na początku nie reguluj rdzeniem cewki tylko kondensatorem strojeniowym, kondensator C13 jest tylko opcją i nie jest wymagany, napięcie sterowania diodą warikap MV2105 jest wystarczające aby pokryć cały zakres pasma radiowego 88-108Mhz.
+
+Projekt jest przetestowany i działał poprawnie . . . 
+
 
 Pliki są w formacie wektorowym [.svg] i możesz je otworzyć i wydrukować używając programu: InkScape
 
