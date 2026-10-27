@@ -14,7 +14,7 @@ Uruchamianie:
 Podczas pierwszego uruchamiania radia ustaw, potencjometr 100K w skrajnym położeniu w lewą stronę, na znaną Ci stacje radiową w okolicach 88-89MHz
 reguluj kondensatorem strojeniowym aż usłyszysz dźwięk z radia. Cewka L1 powinna posiadać rdzeń i 3.5 zwojów, rdzeń powinien być ustawiony w środkowym połażeniu, na początku nie reguluj rdzeniem cewki tylko kondensatorem strojeniowym, kondensator C13 jest tylko opcją i nie jest wymagany, napięcie sterowania diodą warikap MV2105 jest wystarczające aby pokryć cały zakres pasma radiowego 88-108Mhz.
 
-Projekt jest przetestowany i działał poprawnie . . . 
+Projekt jest przetestowany i działa poprawnie . . . 
 
 
 Pliki są w formacie wektorowym [.svg] i możesz je otworzyć i wydrukować używając programu: InkScape
