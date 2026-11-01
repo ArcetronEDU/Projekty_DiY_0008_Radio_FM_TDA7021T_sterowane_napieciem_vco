@@ -14,6 +14,10 @@ Uruchamianie:
 Podczas pierwszego uruchamiania radia ustaw, potencjometr 100K w skrajnym położeniu w lewą stronę, na znaną Ci stacje radiową w okolicach 88-89MHz
 reguluj kondensatorem strojeniowym aż usłyszysz dźwięk z radia. Cewka L1 powinna posiadać rdzeń i 3.5 zwojów, rdzeń powinien być ustawiony w środkowym połażeniu, na początku nie reguluj rdzeniem cewki tylko kondensatorem strojeniowym, kondensator C13 jest tylko opcją i nie jest wymagany, napięcie sterowania diodą warikap MV2105 jest wystarczające aby pokryć cały zakres pasma radiowego 88-108Mhz.
 
+Sterowanie potencjometrem VCO musi być dobrze zabezpieczone, każdy przewód musi być typu skrętka aby zminimalizować efekt przydźwięku, są tylko trzy przewody ale użyj czterech, dodatkowy przewód to GND
+Dwa przewody GND skrec osobno z przewodem dodatnim jak i sterowniczym V, w efekcie będzie czysty dźwięk. Układ TDA7021T jest bardzo czułym radiem wiec bardzo bliskie stacje nadawcze mogą powodować przydźwięk
+zbyt sinego sygnału RF, na wyjściu antenowego użyj tłumika RF 10dB w postaci dwóch rezystorów od strony anteny szeregowo 47 ohm ,pomiędzy sygnal a gnd  33 ohmy.
+
 Projekt jest przetestowany i działa poprawnie . . . 
 
 
